@@ -4,7 +4,7 @@
  
  - A movie recommendation system based on tmdb dataset that recommends movies similar to a specific movie
 
- ![alt text]https://github.com/techpiyushjoshi/Recommendation-System/blob/main/Untitled.jpg
+![alt text](https://github.com/techpiyushjoshi/Recommendation-System/blob/main/Untitled.jpg)
 
 ## TechStack
 - Language : Python

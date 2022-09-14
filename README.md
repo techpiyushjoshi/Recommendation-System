@@ -12,4 +12,5 @@
 - Library : Pandas, NLTK, scikit-learn, requests
 - API : tmdb api (for fetching images)
 - Framework : Streamlit
+- Cloud : Heroku
 

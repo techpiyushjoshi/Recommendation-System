@@ -8,7 +8,7 @@
 
 ## TechStack
 - Language : Python
-- IDE : PyCharm, Jupyter Notebook
+- IDE : PyCharm, Jupyter Notebook, VS Code
 - Library : Pandas, NLTK, Scikit-learn, Requests, Pickle
 - API : tmdb api (for fetching images)
 - Framework : Streamlit
